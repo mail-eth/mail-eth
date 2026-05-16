@@ -26,13 +26,13 @@ Building at the intersection of AI, blockchain, and automation. Currently explor
 Emotional bilingual milestone wall - track dreams and life goals  
 `Next.js` `Supabase` `Tailwind CSS`
 
-### [CPunks Hunter](https://github.com/mail-eth/cpunks-hunter)
-Automated NFT hunting bot with multi-wallet support  
-`Python` `Web3` `Automation`
-
 ### [Trading Swarm](https://github.com/mail-eth/trading-swarm)
 Multi-agent crypto trading system with specialized roles  
 `Node.js` `AI Agents` `Binance API`
+
+### [Portfolio](https://github.com/mail-eth/ilham-portfolio-new)
+Personal portfolio website showcasing projects and skills  
+`Next.js` `TypeScript` `Tailwind CSS`
 
 ## 📫 Connect
 
