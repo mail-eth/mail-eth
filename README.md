@@ -10,9 +10,9 @@
 
 ```
  ╔══════════════════════════════════════════════╗
- ║  📍 Jakarta, ID          🟢 online           ║
+ ║  ⛓️ Ethereum · Base          🟢 online       ║
  ║  🧠 building autonomous agents & DeFi tools  ║
- ║  ⛓️ Solidity · ethers.js · Web3.py           ║
+ ║  🔧 Solidity · ethers.js · Web3.py           ║
  ║  🎯 ship first, refactor never               ║
  ╚══════════════════════════════════════════════╝
 ```
@@ -47,16 +47,16 @@
 ## 🚀 featured projects
 
 <a href="https://github.com/mail-eth/before-die-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mail-eth&repo=before-die-app&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img width="49%" src="https://github-readme-stats-one-pi.vercel.app/api/pin/?username=mail-eth&repo=before-die-app&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 <a href="https://github.com/mail-eth/trading-swarm">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mail-eth&repo=trading-swarm&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img width="49%" src="https://github-readme-stats-one-pi.vercel.app/api/pin/?username=mail-eth&repo=trading-swarm&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 <a href="https://github.com/mail-eth/OmniRoute">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mail-eth&repo=OmniRoute&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img width="49%" src="https://github-readme-stats-one-pi.vercel.app/api/pin/?username=mail-eth&repo=OmniRoute&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 <a href="https://github.com/mail-eth/ilham-portfolio-new">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mail-eth&repo=ilham-portfolio-new&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img width="49%" src="https://github-readme-stats-one-pi.vercel.app/api/pin/?username=mail-eth&repo=ilham-portfolio-new&theme=tokyonight&hide_border=true&show_owner=true" />
 </a>
 
 <br/>
@@ -67,8 +67,8 @@
 
 <div align="center">
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api?username=mail-eth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mail-eth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="58%" src="https://github-readme-stats-one-pi.vercel.app/api?username=mail-eth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="38%" src="https://github-readme-stats-one-pi.vercel.app/api/top-langs/?username=mail-eth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mail-eth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gamma.vercel.app/?username=mail-eth&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -92,7 +92,7 @@
 
 ## 🐍 contribution graph
 
-<img src="https://raw.githubusercontent.com/platane/snake/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/mail-eth/mail-eth/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <br/>
 
