@@ -1,44 +1,27 @@
-# Hi there, I'm Ilham 👋
+### hey, i'm ilham 👾
 
-**Full-Stack Developer | AI Enthusiast | Crypto Builder**
+builder at the intersection of **AI × Web3 × automation**
 
-Building at the intersection of AI, blockchain, and automation. Currently exploring autonomous agents, DeFi protocols, and creative web experiences.
-
-## 🚀 What I'm Building
-
-- 🤖 **AI Agents** - Autonomous trading systems and multi-agent workflows
-- ⛓️ **Web3 Projects** - NFT hunting bots, token mechanics, smart contracts
-- 🎨 **Creative Apps** - Emotional milestone walls, meditation experiences
-- 📊 **Trading Tools** - Real-time dashboards, automated strategies
-
-## 🛠️ Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express, Python  
-**Database:** Supabase, PostgreSQL, SQLite  
-**Blockchain:** Solidity, ethers.js, Web3.py  
-**AI/ML:** OpenAI, Anthropic, LangChain  
-**DevOps:** Vercel, Docker, GitHub Actions
-
-## 📌 Featured Projects
-
-### [Before Die App](https://github.com/mail-eth/before-die-app) ⭐
-Emotional bilingual milestone wall - track dreams and life goals  
-`Next.js` `Supabase` `Tailwind CSS`
-
-### [Trading Swarm](https://github.com/mail-eth/trading-swarm)
-Multi-agent crypto trading system with specialized roles  
-`Node.js` `AI Agents` `Binance API`
-
-### [Portfolio](https://github.com/mail-eth/ilham-portfolio-new)
-Personal portfolio website showcasing projects and skills  
-`Next.js` `TypeScript` `Tailwind CSS`
-
-## 📫 Connect
-
-- GitHub: [@mail-eth](https://github.com/mail-eth)
-- Building in public, one commit at a time
+```
+currently:  autonomous agents / DeFi tooling / creative web
+stack:      Next.js · TypeScript · Solidity · Python · ethers.js
+vibe:       ship first, refactor never
+```
 
 ---
 
-*"Just build it"* 🚀
+**things i've built**
+
+- [`OmniRoute`](https://github.com/mail-eth/OmniRoute) — free AI gateway, 160+ providers, one endpoint
+- [`trading-swarm`](https://github.com/mail-eth/trading-swarm) — multi-agent crypto trading system
+- [`before-die-app`](https://github.com/mail-eth/before-die-app) — bilingual milestone wall, track what matters
+- [`ilham-portfolio`](https://github.com/mail-eth/ilham-portfolio-new) — personal site
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=mail-eth&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true" height="130" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mail-eth&layout=compact&theme=dark&hide_border=true&hide_title=true" height="130" />
+
+---
+
+*just build it.*
