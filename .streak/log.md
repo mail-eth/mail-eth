@@ -79,3 +79,6 @@
 2026-06-25 17:00 UTC — daily ping
   > deploy on friday — i dare you
 
+2026-06-26 17:00 UTC — daily ping
+  > git push --force-with-lease yourself
+
