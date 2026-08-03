@@ -193,3 +193,6 @@
 2026-08-02 17:00 UTC — daily ping
   > it works on my machine
 
+2026-08-03 17:00 UTC — daily ping
+  > git push --force-with-lease yourself
+
