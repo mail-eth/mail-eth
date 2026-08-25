@@ -259,3 +259,6 @@
 2026-08-24 17:00 UTC — daily ping
   > deploy on friday — i dare you
 
+2026-08-25 17:00 UTC — daily ping
+  > ship first, refactor never
+
