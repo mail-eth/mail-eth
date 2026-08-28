@@ -268,3 +268,6 @@
 2026-08-27 17:00 UTC — daily ping
   > the best code is the code that works
 
+2026-08-28 17:00 UTC — daily ping
+  > ship first, refactor never
+
