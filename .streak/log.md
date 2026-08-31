@@ -277,3 +277,6 @@
 2026-08-30 17:00 UTC — daily ping
   > ship first, refactor never
 
+2026-08-31 17:00 UTC — daily ping
+  > TODO: fix later
+
