@@ -280,3 +280,6 @@
 2026-08-31 17:00 UTC — daily ping
   > TODO: fix later
 
+2026-09-01 17:00 UTC — daily ping
+  > deploy on friday — i dare you
+
