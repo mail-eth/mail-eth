@@ -364,3 +364,6 @@
 2026-10-01 17:00 UTC — daily ping
   > 100% test coverage achieved (in my dreams)
 
+2026-10-02 17:00 UTC — daily ping
+  > ship first, refactor never
+
