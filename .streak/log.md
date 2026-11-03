@@ -460,3 +460,6 @@
 2026-11-02 17:00 UTC — daily ping
   > just build it
 
+2026-11-03 17:00 UTC — daily ping
+  > ship first, refactor never
+
