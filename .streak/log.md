@@ -499,3 +499,6 @@
 2026-11-15 17:00 UTC — daily ping
   > ship first, refactor never
 
+2026-11-16 17:00 UTC — daily ping
+  > git push --force-with-lease yourself
+
